@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 195, 85);
+}
+
+#korszamitas{
+    text-align: center;
+    background-color: rgb(88, 40, 0);
+    color: wheat;
+}   
+
+.gomb {
+    background-color: rgb(255, 215, 163);
+}
+
+#kepgomb{
+    width: 50px;
+}
+
+#calc {
+    width: 80px;
+    float: right;
+    margin-right: 20%;
+}
+
+hr {
+    width: 45%;
+}
